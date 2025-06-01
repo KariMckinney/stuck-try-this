@@ -1,0 +1,41 @@
+header {
+    text-align: center;
+    font-family: monospace;
+    background-color: #2A9D8F;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    flex-basis: 25%;
+    color: #286179;
+
+}
+
+main {
+    background-color: #FFE3C1;
+}
+
+p {
+    color: #286179;
+}
+
+button {
+    font-family: monospace;
+    background-color: #2A9D8F;
+}
+
+footer {
+    background-color: #2A9D8F;
+}
+
+body {
+
+    text-align: center;
+    font-family: monospace;
+    color: #2D2D2D;
+    background-color: #264653;
+
+}
